@@ -1,0 +1,15 @@
+{
+  "go.useLanguageServer": true,
+  "editor.formatOnSave": true,
+  "go.formatTool": "gofmt",
+  "go.lintOnSave": "package",
+  "go.lintTool": "golangci-lint",
+  "go.coverOnSave": true,
+  "go.buildTags": "",
+  "go.testTimeout": "30s",
+  "go.toolsManagement.autoUpdate": true,
+  "go.languageServerExperimentalFeatures": {
+    "diagnostics": true,
+    "staticcheck": true
+  }
+}
