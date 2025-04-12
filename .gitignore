@@ -1,0 +1,12 @@
+.DS_Store
+
+*.db
+*.old
+
+.idea
+
+node_modules
+server/ui/dist/
+
+postcage
+sendmail/sendmail
