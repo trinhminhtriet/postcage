@@ -2,6 +2,10 @@
 
 📧 PostCage: An email testing tool with SMTP server, web UI, POP3 support, and API integration.
 
+> **⚠️ Notice: Work in Progress**
+
+> This project is not yet complete and is still being developed.
+
 ## ✨ Features
 
 -   **SMTP Server**: Send and receive emails using a built-in SMTP server.
